@@ -1,0 +1,22 @@
+segment_sources:
+  IEC8BA7BA:
+    type: origin_type
+    relation: translation
+    language: en
+  I9A778A7D:
+    type: origin_type
+    relation: translation
+    language: bo
+segment_pairs:
+  7e9718ce7e0c487fb966448c83118316:
+    IEC8BA7BA: 05b05e9246d54c3e8a0db1e89dcbac42
+    I9A778A7D: 0f707a99710f4d4d9499e306de277609
+  d92653070ce743c0a08492ea7867cd3c:
+    IEC8BA7BA: 2a75fb4286054337b2a23c8c55006912
+    I9A778A7D: 7cd2b62dbe7f413fac63243895c0aafa
+  03f716e1e33a427fbd81f9a2cfd71695:
+    IEC8BA7BA: 0ea92bfe98f541c2b465aa12cafd46a0
+    I9A778A7D: 8174d5a34b4a4bffbd96d7d024589656
+  5c36d1eac2154e98948d4ed567103acf:
+    IEC8BA7BA: 2a73907152c9453da4a7b5130d873b21
+    I9A778A7D: 619c0d76684a481cb8af3de6ee62596a
